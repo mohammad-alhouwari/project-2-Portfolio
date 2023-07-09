@@ -359,7 +359,9 @@ box-sizing: border-box;
     /* shared end */
 
     /* navbar start */
-    .container-fluid{}
+    .container-fluid{
+        width: 60%;
+    }
     /* navbar end */
 
     /* header grid */
